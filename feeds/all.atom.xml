@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Byoungyoung Lee @SNU</title><link href="https://lifeasageek.github.io/" rel="alternate"></link><link href="https://lifeasageek.github.io/feeds/all.atom.xml" rel="self"></link><id>https://lifeasageek.github.io/</id><updated>2026-07-12T00:00:00-04:00</updated><entry><title></title><link href="https://lifeasageek.github.io/header.html" rel="alternate"></link><published>2026-07-01T00:00:00-04:00</published><updated>2026-07-01T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-07-01:/header.html</id><content type="html">&lt;blockquote&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Byoungyoung Lee @SNU</title><link href="https://lifeasageek.github.io/" rel="alternate"></link><link href="https://lifeasageek.github.io/feeds/all.atom.xml" rel="self"></link><id>https://lifeasageek.github.io/</id><updated>2026-09-12T00:00:00-04:00</updated><entry><title></title><link href="https://lifeasageek.github.io/header.html" rel="alternate"></link><published>2026-09-01T00:00:00-04:00</published><updated>2026-09-01T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-09-01:/header.html</id><content type="html">&lt;blockquote&gt;
 &lt;p&gt;Professor&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://ece.snu.ac.kr/en"&gt;Department of Electrical and Computer Engineering&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://en.snu.ac.kr"&gt;Seoul National University (SNU)&lt;/a&gt;&lt;/p&gt;
@@ -10,7 +10,7 @@
 &lt;p&gt;Email: &lt;a href="mailto:byoungyoung@snu.ac.kr"&gt;byoungyoung@snu.ac.kr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="static/cv.pdf"&gt;CV&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="static/blee.pgp"&gt;PGP key&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</content><category term="misc"></category></entry><entry><title></title><link href="https://lifeasageek.github.io/bio.html" rel="alternate"></link><published>2026-07-02T00:00:00-04:00</published><updated>2026-07-02T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-07-02:/bio.html</id><summary type="html">&lt;hr&gt;
+&lt;/blockquote&gt;</content><category term="misc"></category></entry><entry><title></title><link href="https://lifeasageek.github.io/bio.html" rel="alternate"></link><published>2026-09-02T00:00:00-04:00</published><updated>2026-09-02T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-09-02:/bio.html</id><summary type="html">&lt;hr&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Short bio&lt;/strong&gt;: I am a Professor in Electrical and
 Computer Engineering at Seoul National University (SNU), leading
@@ -36,11 +36,11 @@ details can be found &lt;a href="https://compsec.snu.ac.kr/research/"&gt;here&lt
 system or security research. If you are interested in working with
 me, please contact me via
 &lt;a href="mailto:byoungyoung@snu.ac.kr"&gt;byoungyoung@snu.ac.kr&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;</content><category term="misc"></category></entry><entry><title>News</title><link href="https://lifeasageek.github.io/news.html" rel="alternate"></link><published>2026-07-03T00:00:00-04:00</published><updated>2026-07-03T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-07-03:/news.html</id><content type="html">&lt;ul&gt;
+&lt;/blockquote&gt;</content><category term="misc"></category></entry><entry><title>News</title><link href="https://lifeasageek.github.io/news.html" rel="alternate"></link><published>2026-09-03T00:00:00-04:00</published><updated>2026-09-03T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-09-03:/news.html</id><content type="html">&lt;ul&gt;
 &lt;li&gt;Jul. 2026: &lt;a href="https://compsec.snu.ac.kr/blog/agent-data-injection"&gt;Agent Data Injection: An arbitrary click attack against web agents&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Jul. 2026: &lt;a href="https://compsec.snu.ac.kr/blog/dualview"&gt;DualView: Defending personal AI agents like OpenClaw against indirect prompt injection&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Jun. 2026: &lt;a href="https://compsec.snu.ac.kr/blog/badepoll"&gt;Bad Epoll: The bug missed by Mythos&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Honors and Awards</title><link href="https://lifeasageek.github.io/honors-and-awards.html" rel="alternate"></link><published>2026-07-04T00:00:00-04:00</published><updated>2026-07-04T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-07-04:/honors-and-awards.html</id><summary type="html">&lt;ul&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Honors and Awards</title><link href="https://lifeasageek.github.io/honors-and-awards.html" rel="alternate"></link><published>2026-09-04T00:00:00-04:00</published><updated>2026-09-04T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-09-04:/honors-and-awards.html</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://sigops.org/s/conferences/sosp/2024/"&gt;&lt;strong&gt;SOSP 2024 Best Paper Award&lt;/strong&gt;&lt;/a&gt;, Nov. 2024&lt;/li&gt;
 &lt;li&gt;ACM CCS 2023 Top Reviewer Award, ACM Conference on Computer and Communication Security, 2023&lt;/li&gt;
 &lt;li&gt;Ministerial citation for excellent researcher, Minister of Science and ICT (대한민국 과학기술부 장관 우수연구자 표창), 2020 …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;ul&gt;
@@ -61,30 +61,31 @@ me, please contact me via
 &lt;li&gt;'Special Prize' at KISA Hacking Defense Competition, Seoul, Korea, Mar. 2006&lt;/li&gt;
 &lt;li&gt;POSTECH Undergraduate Research Program Scholarship, 2005&lt;/li&gt;
 &lt;li&gt;Full undergraduate study scholarship, Korea Science and Engineering Foundation (KOSEF), 2003&lt;/li&gt;
-&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Publication (Conference)</title><link href="https://lifeasageek.github.io/publication-conference.html" rel="alternate"></link><published>2026-07-05T00:00:00-04:00</published><updated>2026-07-05T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-07-05:/publication-conference.html</id><summary type="html">&lt;h2&gt;2026&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Publication (Conference)</title><link href="https://lifeasageek.github.io/publication-conference.html" rel="alternate"></link><published>2026-09-05T00:00:00-04:00</published><updated>2026-09-05T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-09-05:/publication-conference.html</id><summary type="html">&lt;h2&gt;2026&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;DMGuard: Safeguarding Kernels from Page-Use-After-Free Vulnerabilities (to appear)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DMGuard: Safeguarding Kernels from Page-Use-After-Free Vulnerabilities (to appear)&lt;/strong&gt; &lt;strong&gt;[ &lt;a href="https://github.com/compsec-snu/dmguard"&gt;code&lt;/a&gt; ]&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Juhee Kim, Jaeyoung Chung, Dae R. Jeong, and Byoungyoung Lee&lt;/p&gt;
+&lt;p&gt;Juhee Kim&amp;#11089;, Jaeyoung Chung&amp;#11089;, Dae R. Jeong, and Byoungyoung Lee&lt;/p&gt;
 &lt;p&gt;USENIX Security Symposium (&lt;strong&gt;Security&lt;/strong&gt;) 2026&lt;/p&gt;
+&lt;p&gt;&amp;#11089; co-first authors&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;GHost in the Shell: A GPU-to-Host Memory Attack and Its Mitigation&lt;/strong&gt; &lt;strong&gt;[ &lt;a href="/papers/ghost-shell.pdf"&gt;paper&lt;/a&gt; ]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GHost in the Shell: A GPU-to-Host Memory Attack and Its Mitigation&lt;/strong&gt; &lt;strong&gt;[ &lt;a href="/papers/ghost-shell.pdf"&gt;paper&lt;/a&gt; | &lt;a href="https://github.com/compsec-snu/ghost-in-the-shell"&gt;code&lt;/a&gt; ]&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Sihyun Roh, Woohyuk Choi, Jaeyoung Chung, Yoochan Lee, Suhwan Song, and Byoungyoung Lee&lt;/p&gt;
-&lt;p&gt;IEEE …&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;2026&lt;/h2&gt;
+&lt;p&gt;Sihyun Roh, Woohyuk Choi, Jaeyoung Chung, Yoochan Lee, Suhwan Song …&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;2026&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;DMGuard: Safeguarding Kernels from Page-Use-After-Free Vulnerabilities (to appear)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DMGuard: Safeguarding Kernels from Page-Use-After-Free Vulnerabilities (to appear)&lt;/strong&gt; &lt;strong&gt;[ &lt;a href="https://github.com/compsec-snu/dmguard"&gt;code&lt;/a&gt; ]&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Juhee Kim, Jaeyoung Chung, Dae R. Jeong, and Byoungyoung Lee&lt;/p&gt;
+&lt;p&gt;Juhee Kim&amp;#11089;, Jaeyoung Chung&amp;#11089;, Dae R. Jeong, and Byoungyoung Lee&lt;/p&gt;
 &lt;p&gt;USENIX Security Symposium (&lt;strong&gt;Security&lt;/strong&gt;) 2026&lt;/p&gt;
+&lt;p&gt;&amp;#11089; co-first authors&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;GHost in the Shell: A GPU-to-Host Memory Attack and Its Mitigation&lt;/strong&gt; &lt;strong&gt;[ &lt;a href="/papers/ghost-shell.pdf"&gt;paper&lt;/a&gt; ]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GHost in the Shell: A GPU-to-Host Memory Attack and Its Mitigation&lt;/strong&gt; &lt;strong&gt;[ &lt;a href="/papers/ghost-shell.pdf"&gt;paper&lt;/a&gt; | &lt;a href="https://github.com/compsec-snu/ghost-in-the-shell"&gt;code&lt;/a&gt; ]&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Sihyun Roh, Woohyuk Choi, Jaeyoung Chung, Yoochan Lee, Suhwan Song, and Byoungyoung Lee&lt;/p&gt;
 &lt;p&gt;IEEE Symposium on Security and Privacy (&lt;strong&gt;SP&lt;/strong&gt;) 2026&lt;/p&gt;
@@ -105,17 +106,26 @@ me, please contact me via
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Agent Data Injection Attacks are Realistic Threats to AI Agents&lt;/strong&gt; &lt;strong&gt;[ &lt;a href="/papers/agent-injection.pdf"&gt;paper&lt;/a&gt; ]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents (to appear)&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Woohyuk Choi, Juhee Kim, Taehyun Kang, Jihyeon Jeong, Luyi Xing, and Byoungyoung Lee&lt;/p&gt;
-&lt;p&gt;arXiv preprint (&lt;strong&gt;arXiv&lt;/strong&gt;) 2026&lt;/p&gt;
+&lt;p&gt;Yongbi Son, Changoo Lee, Dongwon Shin, Byoungyoung Lee, Sanghyun Hong, and Sooel Son&lt;/p&gt;
+&lt;p&gt;ACM SIGSOFT International Symposium on Software Testing and Analysis (&lt;strong&gt;ISSTA&lt;/strong&gt;) 2026&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;DualView: Preventing Indirect Prompt Injection in Personal AI Agents&lt;/strong&gt; &lt;strong&gt;[ &lt;a href="/papers/dualview.pdf"&gt;paper&lt;/a&gt; ]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agent Data Injection Attacks are Realistic Threats to AI Agents&lt;/strong&gt; &lt;strong&gt;[ &lt;a href="/papers/agent-injection.pdf"&gt;paper&lt;/a&gt; | &lt;a href="https://github.com/compsec-snu/adi"&gt;code&lt;/a&gt; ]&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Juhee Kim, Woohyuk Choi, Taehyun Kang, Youngmin Kim, and Byoungyoung Lee&lt;/p&gt;
+&lt;p&gt;Woohyuk Choi&amp;#11089;, Juhee Kim&amp;#11089;, Taehyun Kang, Jihyeon Jeong, Luyi Xing, and Byoungyoung Lee&lt;/p&gt;
 &lt;p&gt;arXiv preprint (&lt;strong&gt;arXiv&lt;/strong&gt;) 2026&lt;/p&gt;
+&lt;p&gt;&amp;#11089; co-first authors&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;DualView: Preventing Indirect Prompt Injection in Personal AI Agents&lt;/strong&gt; &lt;strong&gt;[ &lt;a href="/papers/dualview.pdf"&gt;paper&lt;/a&gt; | &lt;a href="https://github.com/compsec-snu/dualview"&gt;code&lt;/a&gt; ]&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Juhee Kim&amp;#11089;, Woohyuk Choi&amp;#11089;, Taehyun Kang, Youngmin Kim, and Byoungyoung Lee&lt;/p&gt;
+&lt;p&gt;arXiv preprint (&lt;strong&gt;arXiv&lt;/strong&gt;) 2026&lt;/p&gt;
+&lt;p&gt;&amp;#11089; co-first authors&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -144,7 +154,7 @@ me, please contact me via
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Prompt Flow Integrity to Prevent Privilege Escalation in LLM Agents&lt;/strong&gt; &lt;strong&gt;[ &lt;a href="/papers/pfi.pdf"&gt;paper&lt;/a&gt; ]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prompt Flow Integrity to Prevent Privilege Escalation in LLM Agents&lt;/strong&gt; &lt;strong&gt;[ &lt;a href="/papers/pfi.pdf"&gt;paper&lt;/a&gt; | &lt;a href="https://github.com/compsec-snu/pfi"&gt;code&lt;/a&gt; ]&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Juhee Kim, Woohyuk Choi, and Byoungyoung Lee&lt;/p&gt;
 &lt;p&gt;arXiv preprint (&lt;strong&gt;arXiv&lt;/strong&gt;) 2025&lt;/p&gt;
@@ -596,7 +606,7 @@ me, please contact me via
 &lt;p&gt;ACM Symposium on Information, Computer and Communications Security (&lt;strong&gt;ASIACCS&lt;/strong&gt;) 2010&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Publication (Journal)</title><link href="https://lifeasageek.github.io/publication-journal.html" rel="alternate"></link><published>2026-07-06T00:00:00-04:00</published><updated>2026-07-06T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-07-06:/publication-journal.html</id><summary type="html">&lt;h2&gt;2025&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Publication (Journal)</title><link href="https://lifeasageek.github.io/publication-journal.html" rel="alternate"></link><published>2026-09-06T00:00:00-04:00</published><updated>2026-09-06T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-09-06:/publication-journal.html</id><summary type="html">&lt;h2&gt;2025&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Finding Device Driver Bugs With Fuzzing PCIe Configuration Input&lt;/strong&gt;&lt;blockquote&gt;
 &lt;p&gt;Kyungwook Boo, and Byoungyoung Lee&lt;/p&gt;
@@ -637,7 +647,7 @@ me, please contact me via
 &lt;p&gt;ACM Computing Surveys (&lt;strong&gt;CSUR&lt;/strong&gt;) 2016&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Teaching</title><link href="https://lifeasageek.github.io/teaching.html" rel="alternate"></link><published>2026-07-07T00:00:00-04:00</published><updated>2026-07-07T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-07-07:/teaching.html</id><summary type="html">&lt;ul&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Teaching</title><link href="https://lifeasageek.github.io/teaching.html" rel="alternate"></link><published>2026-09-07T00:00:00-04:00</published><updated>2026-09-07T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-09-07:/teaching.html</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;Fall 2024 : &lt;a href="https://compsec.snu.ac.kr/class/systems-programming"&gt;&lt;strong&gt;Systems Programming&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Fall 2024 : &lt;a href="https://compsec.snu.ac.kr/class/data-structure/"&gt;&lt;strong&gt;Data Structures&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Spring 2024 : Software and Systems Security&lt;/li&gt;
@@ -667,7 +677,7 @@ me, please contact me via
 &lt;li&gt;Fall 2017 : &lt;a href="http://courses.cs.purdue.edu/cs50300:fall17:start"&gt;&lt;strong&gt;Operating Systems (CS 50300, Purdue)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Spring 2017 : &lt;a href="https://lifeasageek.github.io/class/cs590-sts"&gt;&lt;strong&gt;Secure And Trusted Systems (CS 59000-STS, Purdue)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Fall 2016: &lt;a href="https://lifeasageek.github.io/class/cs52700-fall16"&gt;&lt;strong&gt;Software security (CS 52700, Purdue)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Students Advising</title><link href="https://lifeasageek.github.io/students-advising.html" rel="alternate"></link><published>2026-07-09T00:00:00-04:00</published><updated>2026-07-09T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-07-09:/students-advising.html</id><content type="html">&lt;ul&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Students Advising</title><link href="https://lifeasageek.github.io/students-advising.html" rel="alternate"></link><published>2026-09-09T00:00:00-04:00</published><updated>2026-09-09T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-09-09:/students-advising.html</id><content type="html">&lt;ul&gt;
 &lt;li&gt;Sangyun Kim (PhD Student)&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/ylemkimon"&gt;Young Min Kim&lt;/a&gt; (PhD Student)&lt;/li&gt;
 &lt;li&gt;Sihyun Roh (PhD Student)&lt;/li&gt;
@@ -678,7 +688,7 @@ me, please contact me via
 &lt;li&gt;Junghyun Park (MS Student)&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://jongukc.github.io/"&gt;Jonguk Cheong&lt;/a&gt; (MS Student)&lt;/li&gt;
 &lt;li&gt;Myungbin Hwang (MS Student)&lt;/li&gt;
-&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Alumni</title><link href="https://lifeasageek.github.io/alumni.html" rel="alternate"></link><published>2026-07-10T00:00:00-04:00</published><updated>2026-07-10T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-07-10:/alumni.html</id><summary type="html">&lt;ul&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Alumni</title><link href="https://lifeasageek.github.io/alumni.html" rel="alternate"></link><published>2026-09-10T00:00:00-04:00</published><updated>2026-09-10T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-09-10:/alumni.html</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;&lt;a href="http://ysjeon.net"&gt;Yuseok Jeon&lt;/a&gt;, PhD at Purdue, co-advised with
   Mathias Payer. Interned at Intel. Now Assistant Professor at Korea University&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://adil-ahmad.net/"&gt;Adil Ahmad&lt;/a&gt;, PhD at Purdue,
@@ -692,28 +702,28 @@ me, please contact me via
   Research. Now Assistant Professor at Arizona State University (2022 Sep)&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://compsec.snu.ac.kr/~gwangmu/"&gt;Gwangmu Lee&lt;/a&gt;, PhD (2022 Feb), Now at Swiss National Computer Centre (CSCS)&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://kt0755.github.io"&gt;Kyungtae Kim&lt;/a&gt;, PhD at Purdue (2022 Aug), co-advised with Dave Tian. Assistant professor at Dartmouth&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://jaewonhur.github.io"&gt;Jaewon Hur&lt;/a&gt;, PhD (2023 Aug). Now at Apple&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jaewonhur.github.io"&gt;Jaewon Hur&lt;/a&gt;, PhD (2023 Aug). Now at Apple, Software Engineer&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://compsec.snu.ac.kr/docs/cv-cwmyung.pdf"&gt;Cheolwoo Myeong&lt;/a&gt;, PhD (2025 Feb). Now at Samsung Electronics&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://suhwansong.github.io/"&gt;Suhwan Song&lt;/a&gt; PhD (2025 Aug).  Interned at Google. Now at Samsung Electronics&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://leeyoochan.github.io/"&gt;Yoochan Lee&lt;/a&gt; PhD (2025 Aug). Now PostDoc at MPI&lt;/li&gt;
-&lt;li&gt;Kyungwook Boo, PhD (2026 Feb). Now PostDoc at SNU&lt;/li&gt;
+&lt;li&gt;Kyungwook Boo, PhD (2026 Feb). Now at Samsung Electronics&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://juppytt.github.io/"&gt;Juhee Kim&lt;/a&gt; PhD (2026 Feb). Interned at Meta. Now PostDoc Researcher at Azure Research, Microsoft (UK)&lt;/li&gt;
 &lt;li&gt;Seonghyun Park, MS (2022 Feb). Now at Amazon&lt;/li&gt;
 &lt;li&gt;Sunwoo Kim, MS (2022 Feb). Now at Samsung Research&lt;/li&gt;
 &lt;li&gt;Jinwoo Lee, MS (2022 Aug). Now at Healthhub&lt;/li&gt;
 &lt;li&gt;Jinhan Kwak, MS (2023 Feb). Now at Start-up&lt;/li&gt;
-&lt;li&gt;ByeongWook Kim, MS (2024 Feb). Now at SK hynix&lt;/li&gt;
+&lt;li&gt;ByeongWook Kim, MS (2024 Feb). Now at SK Hynix&lt;/li&gt;
 &lt;li&gt;Hyokyung Kim, MS (2024. Aug). Now at National Security Research Institute (NSRI)&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://n3xtline.kr/"&gt;Youngjoo Lee&lt;/a&gt;, MS (2025 Feb). Now at Apple&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/jakdurider"&gt;Chulmin Lee&lt;/a&gt;, MS (2025 Feb). Now at Medical School&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.linkedin.com/in/chia-ni-lim-683477286/"&gt;Chia-Ni Lim&lt;/a&gt;, MS (2026 Aug)&lt;/li&gt;
-&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Visitors</title><link href="https://lifeasageek.github.io/visitors.html" rel="alternate"></link><published>2026-07-11T00:00:00-04:00</published><updated>2026-07-11T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-07-11:/visitors.html</id><content type="html">&lt;ul&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Visitors</title><link href="https://lifeasageek.github.io/visitors.html" rel="alternate"></link><published>2026-09-11T00:00:00-04:00</published><updated>2026-09-11T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-09-11:/visitors.html</id><content type="html">&lt;ul&gt;
 &lt;li&gt;Jaeback Seo (2018, PhD at KAIST, Now at Google)&lt;/li&gt;
 &lt;li&gt;Yuxuan Chen (2018, Undergraduate at Purdue, Now at Facebook)&lt;/li&gt;
 &lt;li&gt;Wookhyun Han (2018, PhD student at KAIST, Interned at Google, Now at Amazon)&lt;/li&gt;
 &lt;li&gt;Byunggill Joe (2018, PhD student at KAIST)&lt;/li&gt;
 &lt;li&gt;Muhammad Ihsanulhaq Sarfaraz (2017, PhD student at Purdue EE)&lt;/li&gt;
-&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Program Committees</title><link href="https://lifeasageek.github.io/program-committees.html" rel="alternate"></link><published>2026-07-12T00:00:00-04:00</published><updated>2026-07-12T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-07-12:/program-committees.html</id><summary type="html">&lt;ul&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Program Committees</title><link href="https://lifeasageek.github.io/program-committees.html" rel="alternate"></link><published>2026-09-12T00:00:00-04:00</published><updated>2026-09-12T00:00:00-04:00</updated><author><name>Byoungyoung Lee (이병영)</name></author><id>tag:lifeasageek.github.io,2026-09-12:/program-committees.html</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;IEEE Symposium on Security and Privacy (SP): 2024, 2025&lt;/li&gt;
 &lt;li&gt;USENIX Security: 2021, 2022, 2025&lt;/li&gt;
 &lt;li&gt;ACM Conference on Computer and Communications Security (CCS): 
