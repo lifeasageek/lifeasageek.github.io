@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Byoungyoung Lee @SNU</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav class="topnav">
+  <div class="nav-inner">
+    <a class="nav-name" href="index.html">Byoungyoung Lee</a>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false"
+      onclick="var n=this.closest('nav');n.classList.toggle('open');this.setAttribute('aria-expanded',n.classList.contains('open'))">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+    </button>
+    <div class="nav-links">
+      <a href="index.html#news">Updates</a>
+      <a href="publications.html">Publications</a>
+      <a href="honors.html">Honors</a>
+      <a href="people.html">People</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="service.html">Service</a>
+    </div>
+  </div>
+</nav>
+
+<main id="top">
+  <div class="hero">
+    <div>
+      <h1>Byoungyoung Lee <span class="kr">이병영</span></h1>
+      <p class="role">
+        Professor, <a href="http://ece.snu.ac.kr/en">Electrical &amp; Computer Engineering</a><br>
+        <a href="http://en.snu.ac.kr">Seoul National University</a><br>
+        Director of the <a href="https://compsec.snu.ac.kr">CompSec Lab</a><br>
+        <a href="mailto:byoungyoung@snu.ac.kr">byoungyoung@snu.ac.kr</a>
+      </p>
+      <div class="hero-links">
+        <a class="chip" href="https://lifeasageek.github.io/static/cv.pdf">CV</a>
+        <a class="chip" href="https://scholar.google.com/citations?user=AoDgrKIAAAAJ">Google Scholar</a>
+        <a class="chip" href="https://compsec.snu.ac.kr">CompSec Lab</a>
+      </div>
+    </div>
+  </div>
+
+  <p class="bio">
+    I work on <strong>systems security</strong> — attack mitigation, vulnerability finding, and
+    confidential computing — spanning kernels, browsers, and trusted hardware.
+    My recent focus is <strong>AI agent security</strong>: studying realistic attacks on LLM-based
+    agents, such as prompt and data injection, and building principled defenses against them.
+    <a href="https://compsec.snu.ac.kr/research/">More on our research →</a>
+  </p>
+
+  <div class="areas" id="research" style="margin-top:22px; scroll-margin-top:70px">
+    <div class="area">
+      <h3>AI Agent Security</h3>
+      <p>Realistic attacks on LLM-based agents — prompt and data injection — and principled defenses like <a href="https://lifeasageek.github.io/papers/dualview.pdf">DualView</a> and <a href="https://lifeasageek.github.io/papers/pfi.pdf">Prompt Flow Integrity</a>.</p>
+    </div>
+    <div class="area">
+      <h3>Systems &amp; Kernel Security</h3>
+      <p>Fuzzing, concurrency bugs, and exploit mitigation across OS kernels and browsers — <a href="https://lifeasageek.github.io/papers/jeong-razzer.pdf">Razzer</a>, <a href="https://lifeasageek.github.io/papers/ozz.pdf">OZZ</a>, <a href="https://lifeasageek.github.io/papers/petal.pdf">PeTAL</a>, <a href="https://github.com/compsec-snu/dmguard">DMGuard</a>, <a href="https://lifeasageek.github.io/papers/tiktag.pdf">TikTag</a>.</p>
+    </div>
+    <div class="area">
+      <h3>Confidential Computing</h3>
+      <p>Trusted execution and data protection for cloud and ML pipelines — <a href="https://lifeasageek.github.io/papers/dlbox.pdf">DLBox</a>, <a href="https://lifeasageek.github.io/papers/ahmad-obliviate.pdf">Obliviate</a>, <a href="https://lifeasageek.github.io/papers/seo-sgx-shield.pdf">SGX-Shield</a>, <a href="https://lifeasageek.github.io/papers/teemate.pdf">TEEMATE</a>.</p>
+    </div>
+  </div>
+
+  <div class="callout">
+    <strong>To prospective students:</strong> I'm looking for motivated students in systems or
+    security research. If you're interested in working with me, please reach out at
+    <a href="mailto:byoungyoung@snu.ac.kr">byoungyoung@snu.ac.kr</a>.
+  </div>
+
+  <section id="news">
+    <h2 class="sec">Research Updates</h2>
+    <div class="news-item">
+      <div class="news-date">Jul 2026</div>
+      <div class="news-body"><a href="https://compsec.snu.ac.kr/blog/agent-data-injection">Agent Data Injection</a>: an arbitrary click attack against web agents <span class="news-by">— Woohyuk Choi</span></div>
+    </div>
+    <div class="news-item">
+      <div class="news-date">Jul 2026</div>
+      <div class="news-body"><a href="https://compsec.snu.ac.kr/blog/dualview">DualView</a>: defending personal AI agents like OpenClaw against indirect prompt injection <span class="news-by">— Juhee Kim</span></div>
+    </div>
+    <div class="news-item">
+      <div class="news-date">Jun 2026</div>
+      <div class="news-body"><a href="https://compsec.snu.ac.kr/blog/badepoll">Bad Epoll</a>: the bug missed by Mythos <span class="news-by">— Jaeyoung Chung</span></div>
+    </div>
+  </section>
+
+  <section id="publications">
+    <div class="h2row">
+      <h2 class="sec">Recent Publications</h2>
+      <a class="chip" href="publications.html">All publications →</a>
+    </div>
+
+    <div class="year-head" style="margin-top:0">2026</div>
+    <div class="pub" data-area="systems">
+      <div class="pub-title"><span class="venue top">USENIX Security</span> DMGuard: Safeguarding Kernels from Page-Use-After-Free Vulnerabilities</div>
+      <div class="pub-authors">Juhee Kim⭑, Jaeyoung Chung⭑, Dae R. Jeong, and Byoungyoung Lee</div>
+      <div class="pub-meta">
+        <span class="venue-full">USENIX Security Symposium · to appear</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">Systems Security</span>
+        <a class="plink code" href="https://github.com/compsec-snu/dmguard" title="code" aria-label="code"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg></a>
+      </div>
+      <div class="cofirst">⭑ co-first authors</div>
+    </div>
+    <div class="pub" data-area="hacking systems">
+      <div class="pub-title"><span class="venue top">IEEE S&amp;P</span> <a href="https://lifeasageek.github.io/papers/ghost-shell.pdf">GHost in the Shell: A GPU-to-Host Memory Attack and Its Mitigation</a></div>
+      <div class="pub-authors">Sihyun Roh, Woohyuk Choi, Jaeyoung Chung, Yoochan Lee, Suhwan Song, and Byoungyoung Lee</div>
+      <div class="pub-meta">
+        <span class="venue-full">IEEE Symposium on Security and Privacy</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">Hacking</span>
+        <span class="area-badge">Systems Security</span>
+        <a class="plink paper" href="https://lifeasageek.github.io/papers/ghost-shell.pdf" title="paper" aria-label="paper"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></a>
+        <a class="plink code" href="https://github.com/compsec-snu/ghost-in-the-shell" title="code" aria-label="code"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg></a>
+      </div>
+    </div>
+      <div class="pub-ack">Ack: NRF-RS-2023-00209093, IITP-2020-0-01840</div>
+    <div class="pub" data-area="ai hacking web">
+      <div class="pub-title"><span class="venue top">IEEE S&amp;P</span> <a href="https://lifeasageek.github.io/papers/site-isolation-dead.pdf">Site Isolation is Dead: How Site Isolation is Broken in Agentic Browsers and Extensions</a></div>
+      <div class="pub-authors">Suyoung Lee, Seongho Keum, Changoo Lee, Dongwon Shin, Sanghyun Hong, Byoungyoung Lee, and Sooel Son</div>
+      <div class="pub-meta">
+        <span class="venue-full">IEEE Symposium on Security and Privacy</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">AI/Agent</span>
+        <span class="area-badge">Hacking</span>
+        <span class="area-badge">Web/Privacy</span>
+        <a class="plink paper" href="https://lifeasageek.github.io/papers/site-isolation-dead.pdf" title="paper" aria-label="paper"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></a>
+      </div>
+    </div>
+      <div class="pub-ack">Ack: RS-2026-25470691</div>
+    <div class="pub" data-area="hacking systems">
+      <div class="pub-title"><span class="venue top">IEEE S&amp;P</span> <a href="https://lifeasageek.github.io/papers/heap-localization.pdf">Heap Localization: Cache Side-Channel based Linux Kernel Heap Exploit Techniques</a></div>
+      <div class="pub-authors">Yoochan Lee, Sihyun Roh, Hyuk Kwon, Byoungyoung Lee, and Thorsten Holz</div>
+      <div class="pub-meta">
+        <span class="venue-full">IEEE Symposium on Security and Privacy</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">Hacking</span>
+        <span class="area-badge">Systems Security</span>
+        <a class="plink paper" href="https://lifeasageek.github.io/papers/heap-localization.pdf" title="paper" aria-label="paper"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></a>
+      </div>
+    </div>
+      <div class="pub-ack">Ack: ERC-101045669, DFG-EXC-2092-390781972, IITP-2020-0-01840</div>
+    <div class="pub" data-area="ai web">
+      <div class="pub-title"><span class="venue top">ISSTA</span> AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents</div>
+      <div class="pub-authors">Yongbi Son, Changoo Lee, Dongwon Shin, Byoungyoung Lee, Sanghyun Hong, and Sooel Son</div>
+      <div class="pub-meta">
+        <span class="venue-full">ACM SIGSOFT International Symposium on Software Testing and Analysis · to appear</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">AI/Agent</span>
+        <span class="area-badge">Web/Privacy</span>
+      </div>
+    </div>
+    <div class="pub" data-area="ai hacking">
+      <div class="pub-title"><span class="venue">arXiv</span> <a href="https://lifeasageek.github.io/papers/agent-injection.pdf">Agent Data Injection Attacks are Realistic Threats to AI Agents</a></div>
+      <div class="pub-authors">Woohyuk Choi⭑, Juhee Kim⭑, Taehyun Kang, Jihyeon Jeong, Luyi Xing, and Byoungyoung Lee</div>
+      <div class="pub-meta">
+        <span class="venue-full">arXiv preprint</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">AI/Agent</span>
+        <span class="area-badge">Hacking</span>
+        <a class="plink paper" href="https://lifeasageek.github.io/papers/agent-injection.pdf" title="paper" aria-label="paper"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></a>
+        <a class="plink code" href="https://github.com/compsec-snu/adi" title="code" aria-label="code"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg></a>
+      </div>
+      <div class="cofirst">⭑ co-first authors</div>
+    </div>
+    <div class="pub" data-area="ai">
+      <div class="pub-title"><span class="venue">arXiv</span> <a href="https://lifeasageek.github.io/papers/dualview.pdf">DualView: Preventing Indirect Prompt Injection in Personal AI Agents</a></div>
+      <div class="pub-authors">Juhee Kim⭑, Woohyuk Choi⭑, Taehyun Kang, Youngmin Kim, and Byoungyoung Lee</div>
+      <div class="pub-meta">
+        <span class="venue-full">arXiv preprint</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">AI/Agent</span>
+        <a class="plink paper" href="https://lifeasageek.github.io/papers/dualview.pdf" title="paper" aria-label="paper"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></a>
+        <a class="plink code" href="https://github.com/compsec-snu/dualview" title="code" aria-label="code"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg></a>
+      </div>
+      <div class="cofirst">⭑ co-first authors</div>
+    </div>
+
+    <div class="year-head">2025</div>
+    <div class="pub" data-area="cc ai">
+      <div class="pub-title"><span class="venue top">NDSS</span> <a href="https://lifeasageek.github.io/papers/dlbox.pdf">DLBox: New Model Training Framework for Protecting Training Data</a></div>
+      <div class="pub-authors">Jaewon Hur, Juheon Yi, Cheolwoo Myung, Sangyun Kim, Youngki Lee, and Byoungyoung Lee</div>
+      <div class="pub-meta">
+        <span class="venue-full">Network and Distributed System Security Symposium</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">Confidential Computing</span>
+        <span class="area-badge">AI/Agent</span>
+        <a class="plink paper" href="https://lifeasageek.github.io/papers/dlbox.pdf" title="paper" aria-label="paper"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></a>
+      </div>
+    </div>
+      <div class="pub-ack">Ack: NRF-RS-2023-00209093, IITP-RS-2024-00438729, NRF-RS-2023-00335515</div>
+    <div class="pub" data-area="cc systems">
+      <div class="pub-title"><span class="venue top">NDSS</span> <a href="https://lifeasageek.github.io/papers/laputa.pdf">Secure Data Analytics in Apache Spark with Fine-grained Policy Enforcement and Isolated Execution</a></div>
+      <div class="pub-authors">Byeongwook Kim⭑, Jaewon Hur⭑, Adil Ahmad, and Byoungyoung Lee</div>
+      <div class="pub-meta">
+        <span class="venue-full">Network and Distributed System Security Symposium</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">Confidential Computing</span>
+        <span class="area-badge">Systems Security</span>
+        <a class="plink paper" href="https://lifeasageek.github.io/papers/laputa.pdf" title="paper" aria-label="paper"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></a>
+      </div>
+      <div class="cofirst">⭑ co-first authors</div>
+    </div>
+      <div class="pub-ack">Ack: NRF-RS-2023-00209093, COMPA-2710002717, AFOSR-FA9550-24-1-0204</div>
+    <div class="pub" data-area="hacking systems">
+      <div class="pub-title"><span class="venue top">IEEE S&amp;P</span> <a href="https://lifeasageek.github.io/papers/tiktag.pdf">TikTag: Breaking ARM's Memory Tagging Extension with Speculative Execution</a></div>
+      <div class="pub-authors">Juhee Kim, Jinbum Park, Sihyeon Roh, Jaeyoung Chung, Youngjoo Lee, Taesoo Kim, and Byoungyoung Lee</div>
+      <div class="pub-meta">
+        <span class="venue-full">IEEE Symposium on Security and Privacy</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">Hacking</span>
+        <span class="area-badge">Systems Security</span>
+        <a class="plink paper" href="https://lifeasageek.github.io/papers/tiktag.pdf" title="paper" aria-label="paper"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></a>
+        <a class="plink code" href="https://github.com/compsec-snu/tiktag" title="code" aria-label="code"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg></a>
+      </div>
+    </div>
+    <div class="pub" data-area="ai">
+      <div class="pub-title"><span class="venue">arXiv</span> <a href="https://lifeasageek.github.io/papers/pfi.pdf">Prompt Flow Integrity to Prevent Privilege Escalation in LLM Agents</a></div>
+      <div class="pub-authors">Juhee Kim, Woohyuk Choi, and Byoungyoung Lee</div>
+      <div class="pub-meta">
+        <span class="venue-full">arXiv preprint</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">AI/Agent</span>
+        <a class="plink paper" href="https://lifeasageek.github.io/papers/pfi.pdf" title="paper" aria-label="paper"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></a>
+        <a class="plink code" href="https://github.com/compsec-snu/pfi" title="code" aria-label="code"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg></a>
+      </div>
+    </div>
+    <div class="pub" data-area="systems">
+      <div class="pub-title"><span class="venue">IEEE Access</span> Finding Device Driver Bugs With Fuzzing PCIe Configuration Input</div>
+      <div class="pub-authors">Kyungwook Boo, and Byoungyoung Lee</div>
+      <div class="pub-meta">
+        <span class="area-badge">Systems Security</span>
+      </div>
+    </div>
+
+    <div class="year-head">2024</div>
+    <div class="pub" data-area="systems">
+      <div class="pub-title"><span class="venue top">ACM CCS</span> <a href="https://lifeasageek.github.io/papers/petal.pdf">PeTAL: Ensuring Access Control Integrity against Data-only Attacks on Linux</a></div>
+      <div class="pub-authors">Juhee Kim, Jinbum Park, Yoochan Lee, Chengyu Song, Taesoo Kim, and Byoungyoung Lee</div>
+      <div class="pub-meta">
+        <span class="venue-full">ACM Conference on Computer and Communications Security</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">Systems Security</span>
+        <a class="plink paper" href="https://lifeasageek.github.io/papers/petal.pdf" title="paper" aria-label="paper"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></a>
+        <a class="plink slide" href="https://lifeasageek.github.io/papers/petal-slides.pdf" title="slide" aria-label="slide"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="13" rx="1.5"/><path d="M12 16v4"/><path d="M8 20h8"/></svg></a>
+        <a class="plink code" href="https://github.com/compsec-snu/petal" title="code" aria-label="code"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg></a>
+      </div>
+    </div>
+      <div class="pub-ack">Ack: IITP-2020-0-01840, NRF-RS-2023-00209093, DARPA-FA8750-24-2-0002</div>
+    <div class="pub" data-area="systems">
+      <div class="pub-title"><span class="venue top">SOSP</span> <a href="https://lifeasageek.github.io/papers/ozz.pdf">OZZ: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering</a></div>
+      <div class="pub-authors">Dae R. Jeong, Yewon Choi, Byoungyoung Lee, Insik Shin, and Youngjin Kwon</div>
+      <div class="pub-meta">
+        <span class="venue-full">ACM Symposium on Operating Systems Principles</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">Systems Security</span>
+        <span class="award-pill"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg> <a href="https://sigops.org/s/conferences/sosp/2024/" style="color:inherit">Best Paper Award</a></span>
+        <a class="plink paper" href="https://lifeasageek.github.io/papers/ozz.pdf" title="paper" aria-label="paper"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></a>
+        <a class="plink slide" href="https://lifeasageek.github.io/papers/ozz-slides.pdf" title="slide" aria-label="slide"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="13" rx="1.5"/><path d="M12 16v4"/><path d="M8 20h8"/></svg></a>
+        <a class="plink code" href="https://github.com/casys-kaist/ozz" title="code" aria-label="code"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg></a>
+      </div>
+    </div>
+      <div class="pub-ack">Ack: NRF-RS-2024-00347516, NRF-RS-2024-00359979, IITP-RS-2023-00232728, TIPA-TIPS-00262147, K-Startup-20144069, KISTI-K24L4M2C5</div>
+    <div class="pub" data-area="hacking">
+      <div class="pub-title"><span class="venue">BlackHat USA</span> <a href="https://lifeasageek.github.io/papers/bh24-slides.pdf">Bypassing ARM's Memory Tagging Extension with a Side-Channel Attack</a></div>
+      <div class="pub-authors">Juhee Kim, Jinbum Park, Sihyeon Roh, Jaeyoung Chung, Youngjoo Lee, Taesoo Kim, and Byoungyoung Lee</div>
+      <div class="pub-meta">
+        <span class="area-badge">Hacking</span>
+        <a class="plink slide" href="https://lifeasageek.github.io/papers/bh24-slides.pdf" title="slide" aria-label="slide"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="13" rx="1.5"/><path d="M12 16v4"/><path d="M8 20h8"/></svg></a>
+      </div>
+    </div>
+    <div class="pub" data-area="systems">
+      <div class="pub-title"><span class="venue top">ATC</span> <a href="https://lifeasageek.github.io/papers/rewind.pdf">A Secure, Fast, and Resource-Efficient Serverless Platform with Function REWIND</a></div>
+      <div class="pub-authors">Jaehyun Song, Bumsuk Kim, Minwoo Kwak, Byoungyoung Lee, Euiseong Seo, and Jinkyu Jeong</div>
+      <div class="pub-meta">
+        <span class="venue-full">USENIX Annual Technical Conference</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">Systems Security</span>
+        <a class="plink paper" href="https://lifeasageek.github.io/papers/rewind.pdf" title="paper" aria-label="paper"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></a>
+        <a class="plink slide" href="https://lifeasageek.github.io/papers/rewind-slides.pdf" title="slide" aria-label="slide"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="13" rx="1.5"/><path d="M12 16v4"/><path d="M8 20h8"/></svg></a>
+      </div>
+    </div>
+      <div class="pub-ack">Ack: RS-2023-00321688</div>
+    <div class="pub" data-area="systems">
+      <div class="pub-title"><span class="venue top">ASIACCS</span> <a href="https://lifeasageek.github.io/papers/syzrisk.pdf">SyzRisk: A Change-Pattern-Based Continuous Kernel Regression Fuzzer</a></div>
+      <div class="pub-authors">Gwangmu Lee, Duo Xu, Solmaz Salimi, Byoungyoung Lee, and Mathias Payer</div>
+      <div class="pub-meta">
+        <span class="venue-full">ACM Symposium on Information, Computer and Communications Security</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">Systems Security</span>
+        <a class="plink paper" href="https://lifeasageek.github.io/papers/syzrisk.pdf" title="paper" aria-label="paper"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></a>
+      </div>
+    </div>
+      <div class="pub-ack">Ack: ERC-850868, SNSF-PCEGP2-186974, DARPA-HR001119S0089-AMP-FP-034</div>
+    <div class="pub" data-area="cc systems">
+      <div class="pub-title"><span class="venue">arXiv</span> <a href="https://lifeasageek.github.io/papers/teemate.pdf">TEEMATE: Fast and Efficient Confidential Container using Shared Enclave</a></div>
+      <div class="pub-authors">Chulmin Lee, Jaewon Hur, Sangho Lee, and Byoungyoung Lee</div>
+      <div class="pub-meta">
+        <span class="venue-full">arXiv preprint</span>
+      </div>
+      <div class="pub-meta">
+        <span class="area-badge">Confidential Computing</span>
+        <span class="area-badge">Systems Security</span>
+        <a class="plink paper" href="https://lifeasageek.github.io/papers/teemate.pdf" title="paper" aria-label="paper"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></a>
+      </div>
+    </div>
+
+    <p style="margin-top:26px"><a class="chip" href="publications.html">All publications →</a></p>
+  </section>
+</main>
+
+<footer class="sitefoot">
+  Byoungyoung Lee · Seoul National University ·
+  <a href="mailto:byoungyoung@snu.ac.kr">byoungyoung@snu.ac.kr</a>
+  <div style="margin-top:6px; font-size:12.5px;">Last updated on 2026-08-11.</div>
+</footer>
+
+
+<script type="text/javascript">
+  var clicky_site_ids = clicky_site_ids || [];
+  clicky_site_ids.push(101060599);
+  (function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+  })();
+</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101060599ns.gif" /></p></noscript>
+
+<script>
+if (new URLSearchParams(location.search).has('ack')) document.body.classList.add('show-ack');
+</script>
+</body>
+</html>
